@@ -1,14 +1,18 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "user": [
+    { "id": 1, "role": "Admin" },
+    { "id": 2, "role": "SuperAdmin" },
+    { "id": 3, "role": "User" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+   "user_details": [
+    { "id": 1, "f_Name": "Raveen", "L_Name":"Javei","gender":"Male", "SIN":"324234332","SIN_EXPIRY":"01-02-2021","dob":"01-04-1989","email":"javei@gmail.com", "address":"239, the boulevard","last_updated":"10-12-2021" }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "remarks": [
+    { "id": 1, "remark": "some comment", "usertId": 1 },
+    { "id": 2, "remark": "some comment", "userId": 2 }
+  ],
+  "status": [
+    {"id":"1","status": "Active", "company":"SLR Info", "shift":"Morning"},
+    {"id":"2","status": "In-Active","company":"MDE Info","shift":"Night"}
+    ]
 }
