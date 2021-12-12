@@ -5,7 +5,9 @@
     { "id": 3, "role": "User" }
   ],
    "user_details": [
-    { "id": 1, "f_Name": "Raveen", "L_Name":"Javei","gender":"Male", "SIN":"324234332","SIN_EXPIRY":"01-02-2021","dob":"01-04-1989","email":"javei@gmail.com", "address":"239, the boulevard","last_updated":"10-12-2021" }
+    { "id": 1, "f_Name": "Raveen", "L_Name":"Javei","gender":"Male", "SIN":"324234332","SIN_EXPIRY":"01-02-2021","dob":"01-04-1989","email":"javei@gmail.com", "address":"239, the boulevard","last_updated":"10-12-2021" },
+    { "id": 2, "f_Name": "Adrie", "L_Name":"Gill","gender":"Male", "SIN":"424234332","SIN_EXPIRY":"01-02-2021","dob":"01-04-1989","email":"gill@gmail.com", "address":"239, the boulevard","last_updated":"10-12-2021" },
+    { "id": 3, "f_Name": "Mercie", "L_Name":"Janjua","gender":"Female", "SIN":"564234332","SIN_EXPIRY":"01-02-2021","dob":"01-04-1989","email":"mercie@gmail.com", "address":"239, the boulevard","last_updated":"10-12-2021" }
   ],
   "remarks": [
     { "id": 1, "remark": "some comment", "usertId": 1 },
