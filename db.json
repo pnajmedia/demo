@@ -14,7 +14,7 @@
     { "id": 2, "remark": "some comment", "userId": 2 }
   ],
   "Status_Details": [
-    {"id":"1","status": "Active", "company":"SLR Info", "shift":"Morning"},
-    {"id":"2","status": "In-Active","company":"MDE Info","shift":"Night"}
+    {"id":"1","status": "Active", "company":"SLR Info", "shift":"Morning", gender:"Female"},
+    {"id":"2","status": "In-Active","company":"MDE Info","shift":"Night",gender:"Male"}
     ]
 }
