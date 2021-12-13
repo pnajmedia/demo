@@ -5,9 +5,9 @@
     { "id": 3, "role": "User" }
   ],
    "Employee_Details": [
-    { "id": 1,"Status":"1", "FirstName": "Raveen", "LastName":"Javei","Email":"javei@gmail.com","Gender":"Male", "SIN":"324234332","SINExpiry":"01-02-2021","DOB":"01-04-1989","Address":"239, the boulevard","Last_Updated":"10-12-2021" },
-    { "id": 2,"Status":"2", "FirstName": "Adrie", "LastName":"Gill","Email":"gill@gmail.com","Gender":"Male", "SIN":"424234332","SINExpiry":"01-02-2021","DOB":"01-04-1989", "Address":"239, the boulevard","Last_Updated":"10-12-2021" },
-    { "id": 3,"Status":"1", "FirstName": "Mercie", "LastName":"Janjua","Email":"mercie@gmail.com","Gender":"Female", "SIN":"564234332","SINExpiry":"01-02-2021","DOB":"01-04-1989", "Address":"239, the boulevard","Last_Updated":"10-12-2021" }
+    { "id": 1,"Status":"1", "FirstName": "Raveen", "LastName":"Javei","Email":"javei@gmail.com","Gender":"2", "SIN":"324234332","SINExpiry":"01-02-2021","DOB":"01-04-1989","Address":"239, the boulevard","Last_Updated":"10-12-2021" },
+    { "id": 2,"Status":"2", "FirstName": "Adrie", "LastName":"Gill","Email":"gill@gmail.com","Gender":"2", "SIN":"424234332","SINExpiry":"01-02-2021","DOB":"01-04-1989", "Address":"239, the boulevard","Last_Updated":"10-12-2021" },
+    { "id": 3,"Status":"1", "FirstName": "Mercie", "LastName":"Janjua","Email":"mercie@gmail.com","Gender":"1", "SIN":"564234332","SINExpiry":"01-02-2021","DOB":"01-04-1989", "Address":"239, the boulevard","Last_Updated":"10-12-2021" }
   ],
   "remarks": [
     { "id": 1, "remark": "some comment", "usertId": 1 },
